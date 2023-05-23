@@ -1,0 +1,4 @@
+Homerseklet [homerseklet_ertek=800.0, mertekegyseg=KELVIN]
+Homerseklet [homerseklet_ertek=60.0, mertekegyseg=CELSIUS]
+Homerseklet [homerseklet_ertek=22.0, mertekegyseg=CELSIUS]
+Homerseklet [homerseklet_ertek=43.0, mertekegyseg=CELSIUS]
